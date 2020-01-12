@@ -1,0 +1,50 @@
+/* 검색폼 */
+
+
+
+/* 검색 버튼 */
+#right-search-form > #right-search-btn{
+  color : #666;
+  position: absolute;
+  transform: translateX(-40px) translateY(-1px);
+}
+
+
+
+/* 검색 버튼 텍스트 아이콘 */
+#right-search-form > #right-search-btn>i{
+  border: 3px solid #58ff00;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #58ff00;
+}
+
+#right-search-form:hover > #right-search-btn>i{
+  background: #58ff00;
+  color: #fff;
+  transition: 0.4s;
+}
+
+
+
+/* 검색 창 */
+#right-search-form > #right-search-input{
+  border: 0px solid #58ff00;
+  border-radius: 0px;
+  width: 0px;
+  height: 40px;
+  background: #fff;
+  padding: 0;
+}
+
+#right-search-form:hover > #right-search-input{
+  border: 3px solid #58ff00;
+  border-radius: 30px;
+  width: 240px;
+  transition: 0.4s;
+}
