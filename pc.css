@@ -512,3 +512,8 @@ header #header-bar>.row {
 .btn.square {
 	margin-right: -2px;
 }
+
+/* 읽은 글 색상 변경 */
+#article-list>.article-list-row>.item>.list-title>a:visited {
+	color: #f0c0c0; !important; /* 읽은 글 색상 코드 입력 */
+}
