@@ -1,10 +1,10 @@
 /* 사용자 설정 부분 */
 :root {
-	   --bgColor: #ffc0c0;   /* 배경 색 */
-	 --mainColor: #ff8080;   /* 메인 컬러 */
-	--mainColor5: #ff808055; /* 공지, 인기글 hover */
-	--mainColor3: #ff808033; /* 공지, 인기글 */
-	--mainColor2: #ff808022; /* 트게더 메뉴, 게시글 hover */
+	   --bgColor: #ffc0d0;   /* 배경 색 */
+	 --mainColor: #ff8090;   /* 메인 컬러 */
+	--mainColor5: #ff809055; /* 공지, 인기글 hover */
+	--mainColor3: #ff809033; /* 공지, 인기글 */
+	--mainColor2: #ff809022; /* 트게더 메뉴, 게시글 hover */
 	--logoURL: url(https://previews.dropbox.com/p/thumb/AAqRWNGVndxkx1clLnEP6FTwUjl0Lm6I3ZA2RCRJRAB0dJzpInVUuY-7q0-gOtqsvF1_ADd0QRnEBKj_B2iAx0wkZECYMjhNBo7lMr3Xtl0NqIB9p2cvV7eh2HNstP94XJifHPbxil-JwVI9QUCKLAbQxXFJvcFZucE01hBe_QagQ2bNAedIJXSbBhAYVLt8NJRb87qJnong9tHmOKfbQ-ehnUoeWQELOrdo7FnjquNlBVx_EhlW8DIljdfkVihB0pLFuG5he-vURb1gPSAgH4ht_OXQA8QM1FDiJSGKM3FGcbMjptRsk0eExGTchmw8ulGSQzajOQBz2GS1eJeq-Sys/p.png?fv_content=true&size_mode=5);
 	--logoWidth: 250px;	 /* 로고 너비 */
 	--before: ""; /* 접속자 수 앞 문구 */
